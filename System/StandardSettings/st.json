@@ -1,0 +1,38 @@
+{
+  "wifi": {
+    "enabled": true,
+    "ssid": "MyWiFi",
+    "auto_connect": true
+  },
+  "bluetooth": {
+    "enabled": false,
+    "paired_devices": []
+  },
+  "display": {
+    "brightness": 70,
+    "auto_brightness": true,
+    "screen_timeout_sec": 30,
+    "dark_mode": false
+  },
+  "sound": {
+    "ringer_volume": 80,
+    "media_volume": 70,
+    "notifications_volume": 60,
+    "do_not_disturb": false
+  },
+  "notifications": {
+    "enabled": true,
+    "lock_screen_preview": true,
+    "app_notifications": {
+      "messages": true,
+      "email": true,
+      "social": false
+    }
+  },
+  "system": {
+    "language": "en-US",
+    "location_enabled": true,
+    "auto_update": true,
+    "developer_options": false
+  }
+}
