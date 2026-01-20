@@ -1,0 +1,9 @@
+guest.disabled.folder: AndroidPhone
+user.disabled.folder:AndroidPhone
+user.enabled.folder: AndroidPhone/system/emulated/0/
+user.standard: {
+  user.standard.wallpaper: AndroidPhone/system/wallpaper/wallpaper1.png
+  user.standard.name: User
+  user.isadmin: False
+}
+user.admin.disabledfolder: AndroidPhone
