@@ -2,5 +2,5 @@
  "name":"lithiuros",
   "version":"1.0",
   "details":"beta",
-  "runner": "unknown"
+  "runner": "LithiurOS.runner.html"
 }
