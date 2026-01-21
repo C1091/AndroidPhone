@@ -1,0 +1,6 @@
+{ 
+  "name": "UPDATEHELPER", 
+  "ver": 1,
+   "UpdateFile":"https://github.com/C1091/AndroidUpdate",
+  "UpdateFileVer": "https://github.com/C1091/AndroidUpdate/UpdateVer.txt"
+}
