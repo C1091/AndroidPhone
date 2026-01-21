@@ -1,0 +1,7 @@
+{
+  "VM": {
+    "vmstart": "node /System/VM/index.js",
+    "vm.crash": "node /System/VM/crashhandler.js",
+    "notfound": "node /System/Sys/VM.notfound.js"
+  }
+}
